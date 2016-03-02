@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:26:27.035Z'
-dateModified: '2016-03-02T18:26:03.691Z'
+datePublished: '2016-03-02T18:29:39.714Z'
+dateModified: '2016-03-02T18:26:33.727Z'
 title: Initial thoughts...
 author: []
 sourcePath: _posts/2016-03-02-initial-thoughts.md
